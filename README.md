@@ -20,15 +20,17 @@ Licenciatura em Matemática - FCT UNESP (2018 - 2022)
 Análise e Desenvolvimento de Sistemas – FATEC (em andamento)
 
 # Interesses
-Ciência de dados
+Ciência de dados e da informação
 
-Privacidade e tecnologia
+Probábilidade e Estátistica
 
-Cibersegurança
+Privacidade e Cibersegurança
 
-Redes de computadores e infraestrutura
+Redes de computadores e Infraestrutura
 
-Educação e ensino de matemática e informática
+Matemática Aplicada e Computacional (Análise Real aplicada)
+
+Educação Matemática
 
 # Experiência
 Professor de Matemática na rede pública do estado de São Paulo (desde 2022)
@@ -38,10 +40,10 @@ Professor de física para o curso de Radiologia no Grau Técnico (2024)
 Professor de Informática para jovens aprendizes (2026)
 
 # Experiência acadêmica
-Iniciação Científica com foco em privacy literacy e análise de dados. (2026)
+Iniciação Científica com foco em privacy literacy e análise de dados (2026)
 
-Iniciação Científica sobre resultados clássicos sobre a localização de zeros de polinômios no plano complexo. (2019)
+Iniciação Científica sobre resultados clássicos sobre a localização de zeros de polinômios no plano complexo (2019)
 
-Participação no XVII Simpósio de Matemática - SMAT/ERMAC, com trabalho sobre o Gato de Arnold e Teoria do Caos. (2023)
+Participação no XVII Simpósio de Matemática - SMAT/ERMAC, com trabalho sobre o Gato de Arnold e Teoria do Caos (2023)
 
-Residência Pedagógica com pesquisa sobre Conjunto Z e sua representação na reta numérica. (2021)
+Residência Pedagógica com pesquisa sobre Conjunto Z e sua representação na reta numérica (2021)
